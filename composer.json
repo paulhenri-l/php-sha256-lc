@@ -21,7 +21,10 @@
     "autoload": {
         "psr-4": {
             "PaulhenriL\\PhpSha256Lc\\": "src/"
-        }
+        },
+        "files": [
+            "src/sha256_lc.php"
+        ]
     },
     "autoload-dev": {
         "psr-4": {
