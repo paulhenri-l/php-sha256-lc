@@ -15,7 +15,7 @@ composer require paulhenri-l/php-sha256-lc
 
 ## Usage
 
-The function will be autoloaded thanks to composer so you'll only have to call 
+The function will be autoloaded thanks to composer so you'll only have to call
 it.
 
 ```php
